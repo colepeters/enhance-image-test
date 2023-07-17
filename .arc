@@ -9,3 +9,5 @@ enhance/arc-plugin-enhance
 enhance/styles-cribsheet
 enhance/image
 
+@enhance-image
+
