@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@enhance/arc-plugin-enhance": "^6.2.0",
-    "@enhance/image": "1.0.0-RC.3",
+    "@enhance/image": "1.0.0-RC.5",
     "@enhance/styles-cribsheet": "^0.0.9"
   },
   "devDependencies": {

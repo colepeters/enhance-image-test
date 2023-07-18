@@ -7,7 +7,10 @@ prune true
 @plugins
 enhance/arc-plugin-enhance
 enhance/styles-cribsheet
-enhance/image
+enhance/arc-image-plugin
 
 @enhance-image
-
+widths
+  2600
+  900
+  200

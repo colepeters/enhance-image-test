@@ -1,2 +1,2 @@
-import { EnhanceImage } from '@enhance/image'
+import EnhanceImage from '@enhance/image'
 export default EnhanceImage
